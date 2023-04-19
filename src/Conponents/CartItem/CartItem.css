@@ -1,0 +1,16 @@
+.product-remove button{
+    color: red;
+    width:24 ;
+    height:24;
+    cursor: pointer;
+    border: none;
+}
+
+
+.minus{
+    cursor: pointer;
+}
+
+.add{
+    cursor: pointer;
+}

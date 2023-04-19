@@ -1,0 +1,32 @@
+.product {
+    width: 33%;
+    margin: 2rem 0;
+}
+.product img{
+    height: 200px;
+}
+
+
+.btn-success {
+    border-radius: 100px !important;
+    background-color: black !important;
+    border-color: #000 !important;
+    outline: none !important;
+
+}
+
+
+.btn-success:hover{
+    color: black !important;
+    background-color: #fff !important;
+}
+
+.btn-success:focus{
+    box-shadow: #000 !important;
+}
+
+.btn:focus {
+    outline: 0 !important;
+    box-shadow: #000 !important;
+}
+
